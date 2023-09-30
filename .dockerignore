@@ -1,0 +1,5 @@
+# content
+./node-modules/
+.git/
+dockerfile
+.gitignore
